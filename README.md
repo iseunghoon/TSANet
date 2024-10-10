@@ -5,7 +5,7 @@
 
 
 ## CITATION
-'''
+```
 @INPROCEEDINGS{10222236,
   author={Lee, Seunghoon and Cho, Suhwan and Lee, Dogyoon and Lee, Minhyeok and Lee, Sangyoun},
   booktitle={2023 IEEE International Conference on Image Processing (ICIP)}, 
@@ -16,4 +16,4 @@
   pages={1535-1539},
   keywords={Training;Image segmentation;Correlation;Motion segmentation;Object segmentation;Manuals;Benchmark testing;Video Object Segmentation;Temporal Alignment;Scale Alignment;Implicit Neural Representation;Joint Training},
   doi={10.1109/ICIP49359.2023.10222236}}
-'''
+```
